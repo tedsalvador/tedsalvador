@@ -19,3 +19,4 @@ I'm Ted Salvador, Fullstack developer from  Lima, Perú, currently living in  As
 
 Things I code with
 github actions Google Cloud Platform TypeScript Sass Styled Components git npm html5 Nodejs
+https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465
