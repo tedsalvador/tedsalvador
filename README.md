@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Welcome to my page!
+I'm Ted Salvador, Fullstack developer from  Lima, Perú, currently living in  Asturias, España.
+
+Things I code with
+github actions Google Cloud Platform TypeScript Sass Styled Components git npm html5 Nodejs
