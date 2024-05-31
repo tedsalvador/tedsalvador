@@ -23,6 +23,7 @@ Things I code with <br>
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/c8d25895-0193-4100-8bec-bccd5332962a)
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/41a9785b-1b91-435c-93d0-4a7cb981facb)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tedsalvador&layout=compact)](https://github.com/tedsalvador/github-readme-stats)
 
 ![Ted Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedsalvador&show_icons=true&theme=radical)
 
