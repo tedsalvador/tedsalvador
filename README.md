@@ -24,6 +24,8 @@ Things I code with <br>
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/41a9785b-1b91-435c-93d0-4a7cb981facb)
 
 
+![Ted Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedsalvador&show_icons=true&theme=radical)
+
 Where to find me
 <br>
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/41f54580-36d8-479a-a751-9de6b3ed8d28)
