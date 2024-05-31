@@ -3,9 +3,7 @@
  ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/f0a1a55e-4f85-4ba1-831d-528a90799864) Hey! Nice to see you.
 
  
-**tedsalvador/tedsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**tedsalvador/tedsalvador** is a ✨ _special_ ✨ repository my GitHub profile Ted Salvador.
 
 - 🔭 I’m currently working hardly and study on BootCamp F5 - Asturias
 - 🌱 I’m currently learning newly HTML and CSS ans Javascript.
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: films and series of streamming.
 
 Welcome to my page! <br>
-I'm Ted Salvador, Fullstack developer from  Lima, Perú, currently living in  Asturias, España.
+I'm Ted Salvador, Fullstack developer from  Lima, ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ea.png?v8) Perú, currently living in  Asturias, España ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8)
 
 Things I code with <br>
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/efa76f26-21eb-47de-a5c8-eef98d0ced5b)
