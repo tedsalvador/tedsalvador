@@ -32,4 +32,4 @@ Where to find me
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/41f54580-36d8-479a-a751-9de6b3ed8d28)
 ![image](https://github.com/tedsalvador/tedsalvador/assets/16958176/5fb8be94-4d96-4327-b93f-5d4e2023edec)
 <br>
-![image](https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png?v8) tedpaul@hotmail.com
+![image](https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png?v8) tedpaulxxxx@xxxxmail.com
